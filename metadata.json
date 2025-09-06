@@ -1,0 +1,5 @@
+{
+  "name": "Notion Database Viewer",
+  "description": "A simple and elegant web application to display data from a Notion database in a clean, table-based view. It provides a read-only interface to visualize your Notion data with a focus on aesthetics and usability.",
+  "requestFramePermissions": []
+}
